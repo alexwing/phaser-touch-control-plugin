@@ -4,4 +4,4 @@ A great virtual joystick plugin
 You like it? need help? hire me!
 https://twitter.com/eugenioclrc/
 
-Folk by: http://aaranda.hol.es
+Folk by: http://aaranda.es
